@@ -1,3 +1,5 @@
 Teacher teaches student
 
 Teacher is teaching
+
+Teacher is teaching something
